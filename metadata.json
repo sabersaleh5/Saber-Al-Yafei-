@@ -1,0 +1,7 @@
+{
+  "name": "Saber AI Studio",
+  "description": "منصة صابر AI المتطورة لتوليد وتحسين الصور باستخدام تقنيات Google Gemini. تتيح لك تحويل النص إلى صور فنية مذهلة، مع ميزة تحسين جودة الصور وإزالة البكسلات بدقة عالية.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
